@@ -1,5 +1,5 @@
 # [Assignment] #4 - Bootstrap Layout
-Download the asset's folder for the required screenshots, text content, and images. Also download the marking guide and instructions. 
+Download the **assets** folder (found on Moodle) for the required screenshots, text content, and images. Also download the marking guide and instructions (found on Moodle). 
 
 Work on this repo locally and push your files back up to the classroom repository as you work. Your instructor will see your work as you submit commits and can provide feedback if requested.
 
